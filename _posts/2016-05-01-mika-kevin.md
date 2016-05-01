@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'MIKA + KEVIN '
-datePublished: '2016-05-01T06:36:32.315Z'
-dateModified: '2016-05-01T06:36:17.795Z'
+description: MIKA + KEVIN
+datePublished: '2016-05-01T06:37:35.162Z'
+dateModified: '2016-05-01T06:36:42.359Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-01-mika-kevin.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-01-mika-kevin.md
-published: true
 url: mika-kevin/index.html
 _type: Article
 
