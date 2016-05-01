@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[THEM]]></title>
         <description><![CDATA[THEM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/them/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 06:37:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 06:37:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/them/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MIKA + KEVIN]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b98bc55e-9a67-4dec-8fc3-6859e6036bff.jpg">]]></description>
-            <link>undefinedmika-kevin/index.html</link>
+            <link>https://thegrid.ai/them/mika-kevin/index.html</link>
             <guid isPermaLink="false">1bfc9284-c2c1-44e3-8710-563fcfd9ad39</guid>
-            <pubDate>Sun, 01 May 2016 06:36:32 GMT</pubDate>
+            <pubDate>Sun, 01 May 2016 06:37:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
