@@ -1,0 +1,28 @@
+name: THEM
+favicon: null
+layout_spectrum: 0.8230283695738763
+typography_spectrum: 0.051959655014798045
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9963024789467454
+  lightness: 0.16111298999749124
+  saturation: 0.9484774242155254
+  rhythmicContrast: 0.9776916517876089
+purpose: []
